@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetStrategies.Resilience", "DotNetStrategies.Resilience\DotNetStrategies.Resilience.csproj", "{30B689BA-9DB4-44EF-B51A-BD90538849D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetStrategies.Resilience.Tests", "DotNetStrategies.Resilience.Tests\DotNetStrategies.Resilience.Tests.csproj", "{5E6C4EAD-4D61-4118-AD06-3F3945F8ED83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B689BA-9DB4-44EF-B51A-BD90538849D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B689BA-9DB4-44EF-B51A-BD90538849D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B689BA-9DB4-44EF-B51A-BD90538849D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B689BA-9DB4-44EF-B51A-BD90538849D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6C4EAD-4D61-4118-AD06-3F3945F8ED83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6C4EAD-4D61-4118-AD06-3F3945F8ED83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6C4EAD-4D61-4118-AD06-3F3945F8ED83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6C4EAD-4D61-4118-AD06-3F3945F8ED83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4265E92C-B32E-4AC3-A0CC-09CE86527F6E}
+	EndGlobalSection
+EndGlobal
